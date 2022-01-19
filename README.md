@@ -7,8 +7,10 @@
 - 🎓 Formado em *Desenvolvimento de Sistemas* pelo SENAI São Paulo em 2021
 - 🔭 Tenho como objetivo me tornar **Devops** e capaz de resolver qualquer desafio.
 - 📖 Aprendendo atualmente sobre React Native.
-- 🏢 Dev Back-end na **ArcHOffice Technology**
-- 🏢 Dev Front-end Mobile na **Avec**
+
+## 🏢 Experiência profissional
+- Dev Back-end na **ArcHOffice Technology** (10 meses)
+- Dev Front-end Mobile na **Avec** (06/2021 - atualmente)
 
 ##
 <div>

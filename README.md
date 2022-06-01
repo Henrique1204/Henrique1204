@@ -10,7 +10,7 @@
 
 ## 🏢 Experiência profissional
 - Dev Back-end na **ArcHOffice Technology** (10 meses)
-- Dev Front-end Mobile na **Avec** (06/2021 - atualmente)
+- Dev Front-end Mobile na **Avec** (07/2021 - atualmente)
 
 ##
 <div>
